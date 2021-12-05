@@ -11,7 +11,7 @@ The datasets used are from the [TOSCA](http://tosca.cs.technion.ac.il/data/tosca
 The model requires python3 and numpy to run, disturbing the file structure for the datasets will almost certainly cause issues as well.
 
 ## Running information
-Assuming the prerequisites are met, the model can be run from the command line using 
+Assuming the prerequisites are met, the model can be run from the command line by running   
 ```python ManifoldMeshModel.py```   
 for a Windows system, substitute python3 for unix systems
 
