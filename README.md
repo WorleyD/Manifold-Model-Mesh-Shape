@@ -1,5 +1,5 @@
 # Manifold-Model-Mesh-Shape
-An implementation of the Manifold Model for Shape Deformation outlined in a paper by Freifeld and Black
+An implementation of the Manifold Model for Shape Deformation designed by Freifeld and Black
 
 # Copyright Information
 The Geomproc library was authored by Dr. Oliver Van Kiack and provided under an MIT license  
